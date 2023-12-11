@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @luqmannablan
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 ali.luqman.nablan@gmail.com
